@@ -1,1 +1,3 @@
--e "*.in\n*.out\n*.pyc" 
+*.in
+*.out
+*.pyc 
